@@ -4,6 +4,13 @@ This project is part of Harvard's CS50 Web Programming course.
 
 The goal was to recreate Google's Search, Image Search, and Advanced Search pages using HTML and CSS, without using any frontend frameworks.
 
+
+
+## Live Demo
+
+🔗 https://mani20de.github.io/cs50-web-project0-search/
+
+
 ## Features
 
 - Google Search page with functional search form
