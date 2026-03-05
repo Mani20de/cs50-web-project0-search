@@ -8,7 +8,7 @@ The goal was to recreate Google's Search, Image Search, and Advanced Search page
 
 ## Live Demo
 
-🔗 https://mani20de.github.io/cs50-web-project0-search/
+🔗 https://mani20de.github.io/CS50-Web-Project0-Search/
 
 
 ## Features
