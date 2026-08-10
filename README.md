@@ -37,3 +37,5 @@ This is an early project in my web development journey.
 The focus was on understanding how forms communicate with backend services and how layout structure works.
 
 More advanced styling and JavaScript functionality will be added in future projects.
+
+#edited in my Mac
